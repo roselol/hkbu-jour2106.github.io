@@ -6,7 +6,7 @@
 * Student 1
 * Pili Hu: http://hupilidemo.github.io/
 * Jessie Pang: http://jessiepyt.github.io
-* King Hei: http://kingheiwong.github.io
+* Student 4
 * Poon Tsz Fung: http://johnpoon.github.io
 * Student 6
 * Carmen Chan https://chlorella.github.io/
@@ -14,7 +14,7 @@
 * Student 9
 * Student 10
 * Student 11
-* Roy Tang: http://Roytangrb.github.io/
+* Student 12
 * Student 13
 * Student 14
 * Student 15
@@ -22,7 +22,7 @@
 * Student 17
 * Student 18
 * Student 19
-* Student 20
+* Luo Huiwen: http://roselol.github.io/
 * Student 21
 * ian mak: https://ianmaksh.github.io/
 * Student 23
